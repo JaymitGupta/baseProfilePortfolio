@@ -1,0 +1,9 @@
+
+Contact Name:
+{{ name }}
+
+Email:
+{{ email }}
+
+Content:
+{{ response|safe|striptags }}

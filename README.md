@@ -1,2 +1,1 @@
-# baseProfilePortfolio
-This project is for Portfolio
+Personal blog template 
